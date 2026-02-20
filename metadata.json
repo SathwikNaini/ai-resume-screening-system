@@ -1,0 +1,7 @@
+{
+  "name": "Smart-ATS v3.0: Gen-AI Enterprise Screener",
+  "description": "Enterprise-grade AI-powered Applicant Tracking System (ATS) with 50/20/20/10 scoring logic and session management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
